@@ -18,8 +18,8 @@ Common questions, tools and tutorials in microbial genomics.
 
 ## What you will find here
 
-- **Tutorials** for commonly used tools
-- **Frequently asked questions**
+- Tutorials for commonly used tools in microbial genomics
+- Frequently asked questions
 - And other bioinformatics fun!
 
 ## How this site is organised
