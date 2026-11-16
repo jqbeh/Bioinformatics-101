@@ -8,7 +8,7 @@ permalink: /
 # Bioinformatics 101
 {: .fs-9 }
 
-Common questions, tools and tutorials for microbial genomics.
+Common questions, tools and tutorials in microbial genomics.
 {: .fs-6 .fw-300 }
 
 [Get started]({{ site.baseurl }}/gettingstarted/quickstart/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
