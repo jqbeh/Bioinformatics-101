@@ -1,27 +1,14 @@
 // Custom styles (loaded after the theme's styles).
 
-// --- Logo + site title side by side in the top-left panel -----------------
+// --- Site title in the top-left panel -------------------------------------
 .site-title {
-  gap: 0.6rem;
-  overflow: hidden;
+  font-size: 1.25rem !important;   // fits "Bioinformatics 101" on one line in the 15rem panel
+  font-weight: 500;
+  white-space: nowrap;
 
   @include mq(md) {
-    padding-right: $sp-4;      // less right padding so logo + title fit the narrower panel
+    padding-right: $sp-4;
   }
-}
-
-.site-title .site-logo {
-  flex: 0 0 2.25rem;           // fixed-size logo instead of filling the row
-  width: 2.25rem;
-  height: 2.25rem;
-  mix-blend-mode: multiply;    // hide the logo's white square on the grey panel
-}
-
-.site-title-text {
-  font-size: 1rem;              // fits "Bioinformatics 101" on one line beside the logo
-  font-weight: 500;
-  line-height: 1.2;
-  white-space: nowrap;
 }
 
 // --- Keep the navigation panel at a fixed width on wide screens -----------
