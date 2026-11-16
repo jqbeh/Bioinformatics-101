@@ -1,0 +1,8 @@
+{%- comment -%}
+  Overrides the theme's title.html, which shows EITHER the logo OR the site
+  title. This shows the logo followed by the site title.
+{%- endcomment -%}
+{% if site.logo %}
+  <div class="site-logo" role="img" aria-label="{{ site.title }} logo"></div>
+{% endif %}
+<span class="site-title-text">{{ site.title }}</span>
