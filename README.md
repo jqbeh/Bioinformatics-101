@@ -4,7 +4,7 @@ This repository is dedicated to common questions, tools, and tutorials for micro
 
 ## Documentation
 
-The complete documentation can be found [here](https://jqbeh.github.io/Microbial-Genomics/).
+The complete documentation can be found [here](https://jqbeh.github.io/Bioinformatics-101/).
 
 ## License
 
