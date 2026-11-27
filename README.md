@@ -1,10 +1,10 @@
 # Welcome!
 
-This repository is dedicated to common questions, tools, and tutorials for microbial genomics.
+This repository is dedicated to tutorials, FAQs, and random opinions in microbial genomics.
 
 ## Documentation
 
-The complete documentation can be found [here](https://jqbeh.github.io/Bioinformatics-101/).
+The blog can be found [here](https://jqbeh.github.io/Bioinformatics-101/).
 
 ## License
 
