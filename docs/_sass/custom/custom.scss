@@ -3,7 +3,7 @@
 // --- Site title in the top-left panel -------------------------------------
 .site-title {
   font-size: 1.25rem !important;   // fits "Bioinformatics 101" on one line in the 15rem panel
-  font-weight: 500;
+  font-weight: 400;
   white-space: nowrap;
 
   @include mq(md) {
