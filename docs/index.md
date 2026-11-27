@@ -20,12 +20,12 @@ Common questions, tools and tutorials in microbial genomics.
 
 - Tutorials for commonly used tools in microbial genomics
 - Frequently asked questions
-- And other bioinformatics fun!
+- And other bioinformatics talks!
 
 ## How this site is organised
 
 | Section | What it covers |
 |:--|:--|
-| [Getting started]({{ site.baseurl }}/gettingstarted/) | Quick start, installation, parameters and citation |
-| [Tutorials]({{ site.baseurl }}/tutorials/) | Step-by-step guides for individual tools |
-| [FAQ]({{ site.baseurl }}/faq/) | Short answers to common questions |
+| [FAQ]({{ site.baseurl }}/gettingstarted/) | Short answers to common questions |
+| [Tutorials]({{ site.baseurl }}/tutorials/) | Beginner's guide to common bioinformatic tools |
+| [Opinions]({{ site.baseurl }}/faq/) | Personal notes and topics of interest |
