@@ -1,10 +1,10 @@
 ---
-title: Tutorial
+title: Tutorials
 nav_order: 2
 has_children: true
-permalink: /tutorial/
+permalink: /gettingstarted/
 ---
 
-# Tutorial
+# Getting started
 
 Everything you need before following the tutorials.

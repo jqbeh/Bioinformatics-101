@@ -11,7 +11,7 @@ permalink: /
 Common questions, tools and tutorials in microbial genomics.
 {: .fs-6 .fw-300 }
 
-[Get started]({{ site.baseurl }}/tutorial/quickstart/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started]({{ site.baseurl }}/gettingstarted/quickstart/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/jqbeh/Bioinformatics-101){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -26,6 +26,6 @@ Common questions, tools and tutorials in microbial genomics.
 
 | Section | What it covers |
 |:--|:--|
-| [Tutorial]({{ site.baseurl }}/tutorial/) | Beginner's guide to common bioinformatic tools |
-| [FAQ]({{ site.baseurl }}/faq/) | Short answers to common questions |
-| [Opinions]({{ site.baseurl }}/opinions/) | Personal notes and topics of interest |
+| [FAQ]({{ site.baseurl }}/gettingstarted/) | Short answers to common questions |
+| [Tutorials]({{ site.baseurl }}/tutorials/) | Beginner's guide to common bioinformatic tools |
+| [Opinions]({{ site.baseurl }}/faq/) | Personal notes and topics of interest |
