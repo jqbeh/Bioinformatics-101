@@ -1,8 +1,8 @@
 ---
 title: Citation
-parent: Tutorial
+parent: Getting started
 nav_order: 4
-permalink: /tutorial/citation/
+permalink: /gettingstarted/citation/
 ---
 
 # Citation
