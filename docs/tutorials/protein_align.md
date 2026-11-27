@@ -60,8 +60,8 @@ snipit aln.fasta \
 ```
 
 
-<!-- Add a figure: save it under docs/assets/images/ and link it here -->
-<!-- ![Substitution plot]({{ site.baseurl }}/assets/images/substitutions.png) -->
+![Substitution plot]({{ site.baseurl }}/assets/images/aa_alignment.pdf){: width="600" }
+*Figure 1. Protein SNPs using the OptrA protein as example.*
 
 
 ## References
