@@ -10,4 +10,4 @@ permalink: /faq/
 Short answers to common microbial genomics questions.
 
 {: .note }
-To add a question, create a Markdown file in `docs/faq/` with `parent: FAQ` in its front matter.
+To add a question, create a Github issue on this [repository](https://github.com/jqbeh/Bioinformatics-101).

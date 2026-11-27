@@ -1,20 +1,20 @@
 ---
 title: Tutorials
-nav_order: 3
+nav_order: 2
 has_children: true
 permalink: /tutorials/
 ---
 
 # Tutorials
 
-Step-by-step guides for commonly used microbial genomics tools.
+Easy guide to commonly used microbial bioinformatic tools.
 
 {: .note }
-Tutorials are being written. To add one, create a Markdown file in `docs/tutorials/` that starts with:
+Tutorial will be updated from time to time.
 
 ```yaml
 ---
-title: Read QC with fastp
+title: Tool name
 parent: Tutorials
 nav_order: 1
 ---

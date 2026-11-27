@@ -26,6 +26,6 @@ Common questions, tools and tutorials in microbial genomics.
 
 | Section | What it covers |
 |:--|:--|
-| [FAQ]({{ site.baseurl }}/gettingstarted/) | Short answers to common questions |
 | [Tutorials]({{ site.baseurl }}/tutorials/) | Beginner's guide to common bioinformatic tools |
-| [Opinions]({{ site.baseurl }}/faq/) | Personal notes and topics of interest |
+| [FAQ]({{ site.baseurl }}/FAQ/) | Short answers to common questions |
+| [Opinions]({{ site.baseurl }}/opinions/) | Personal notes and topics of interest |
